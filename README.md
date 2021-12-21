@@ -23,6 +23,4 @@ Skills: HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=depongkor857)  
 
-![GitHub metrics](https://metrics.lecoq.io/depongkor857)  
-
 ![Profile views](https://gpvc.arturio.dev/depongkor857)  
