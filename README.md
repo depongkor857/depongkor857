@@ -1,5 +1,5 @@
 ### Hi there 👋, Depongkor Ghosh
-#### Web Develioper
+#### Web Developer
 ![Web Develioper](https://media-exp1.licdn.com/dms/image/C4E03AQENOudmUy_ikw/profile-displayphoto-shrink_800_800/0/1639098537305?e=1645660800&v=beta&t=8kMiDxjMD_whhFSWzLtF10B2s1qdp7EvvHi8RIcFvgA)
 
 I'm an aspiring web developer.Trying to improve my skills so that I can create amazing things.
